@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Prepare-se Para a Jornada ! :books:
 
 - **Boas-Vindas ao Santander Code Girls**
@@ -15,19 +14,4 @@
   
   
 
-=======
-## Prepare-se Para a Jornada ! :books:
-
-- **Boas-Vindas ao Santander Code Girls**
-
-- **Conheça as Oportunidades da DIO**
-
-- **Seja Protagonista Neste Bootcamp**
-
-- **Santander Code Girls | Aula Inaugural (live.)**
-
-  
-
-  
-
->>>>>>> 54a882016e174a1109e8155ea2f3e766e55edc48
+>>>>>>> 
