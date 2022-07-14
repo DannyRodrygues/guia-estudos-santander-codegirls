@@ -6,7 +6,7 @@
 
 - **_Seja protagonista Neste Bootcamp_**
 
-- **_Santander Code Girls | Aula Inaugural ! (Live 07/07/22 as 19:00hrs)_**
+- **_Santander Code Girls | Aula Inaugural ! (Live 07/07/22 as 19:00hrs.)_**
 
   
 
