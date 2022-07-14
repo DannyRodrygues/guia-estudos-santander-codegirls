@@ -1,12 +1,14 @@
-﻿\## Prepare-se Para a Jornada ! :books:
+﻿## Prepare-se Para a Jornada ! :books:
 
-- \*\*Boas-Vindas ao Santander Code Girls\*\*
+- **_Boas-Vindas ao Santander Code Girls_**
 
-- \*\*Conheça as Oportunidades da DIO\*\*
+- **_Conheça as Oportunidades da DIO_**
 
-- \*\*Seja Protagonista Neste Bootcamp\*\*
+- **_Seja protagonista Neste Bootcamp_**
 
-- \*\*Santander Code Girls | Aula Inaugural (live 07/07/22 as 19:00 hrs)\*\*
+- **_Santander Code Girls | Aula Inaugural ! (Live 07/07/22 as 19:00hrs)_**
+
+  
 
 
 
